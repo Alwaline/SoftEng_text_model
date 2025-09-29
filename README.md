@@ -20,7 +20,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/sentiment-analysis-api.git
+   git clone https://github.com/Alwaline/SoftEng_text_model.git
    cd sentiment-analysis-api
    ```
 
